@@ -5,7 +5,7 @@ We are ***Upside Down Collective***, a collective of pals, who create open sourc
 
 ## ***Upside Down Collective*** are:
 * [@lemmoor](https://github.com/lemmoor)
-* [@Cimlah](https://github.com/Cimlah)
+* [@Michał Stolarczyk](https://github.com/Cimlah)
 
 ## [Our repositories:](https://github.com/orgs/Upside-Down-Collective/repositories)
 * [MebPage](https://github.com/Upside-Down-Collective/MebPage) - A Markdown to HTML converter with themes
